@@ -1,4 +1,4 @@
-Description of the Code
+Description of the Code:
 This code is designed to extract text from an image using Optical Character Recognition (OCR) with the pytesseract library. It organizes the extracted text into a structured format, specifically identifying headings and their corresponding subheadings. The code is broken down into several key components:
 
 1. Library Imports
